@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <style>
+         body{background: radial-gradient(circle, royalblue , green,royalblue);
+        background-image: url(download\ \(1\).jpeg);
+    background-repeat: round; background-position: right left;
+background-attachment: scroll;}
+p{
+    background-color: green;
+    animation-name: ani;
+    animation-duration: 20s;
+}
+@keyframes ani{
+    0%{background-color: royalblue;}
+    50%{background-color: green;}
+   100%{background-color: royalblue;}
+}
+
+        </style>
+    </head>
+    <body>
+        <center>
+            <h1 style="color: blue;">Peacock</h1>
+        </center>
+        <p style="color: honeydew;">The peacock is well known for its bright feathers, which it often shows off in a magnificent courting display. A
+        peafowl's appearance varies slightly depending on the species. The Indian peacock has very flashy plumage, with a bright
+        blue head and neck, which they use to attract a mate.</p>
+        <p style="color: honeydew;">Peacock is the national bird of India, which is renowned for its exquisite beauty and historical importance. It is a
+        delightful sight to witness the dance of the Peacock during the rain. Peacock is the Pride of our nation, and its beauty
+        is famous worldwide.</p>
+        <p style="color: honeydew;">A peacock is a shiny blue bird who fans out his large colorful iridescent tail feathers, especially when he's flirting
+        with the peahens. A peacock is a male peafowl. A male peacock is more flamboyant than his female counterpart — he's the
+        one with those long brilliant tail feathers marked with eye-like designs.</p>
+        <p style="color: honeydew;">ts train of metallic green tail feathers is about 60 inches (150 centimeters) long. Each tail feather has a shining spot
+        at the end of the feather that looks like an eye. A crest, or tuft of feathers, tops the male's head. The body feathers
+        of the male blue peacock are mostly blue-green.</p>
+        <p style="color: honeydew;">It has a ton of live sports, including select NFL games and every Premier League match, a vast library of decades of
+        high-quality movies and shows, and a stealthily strong lineup of originals. Those originals are our main focus today.</p>
+        <p style="color: honeydew;">The peacock is the most beautiful bird in the world. It is a tall but slender bird with a long feather tail. The bird
+        has different shades of blue and green feathers. Peacocks can spread out their long feathers like an umbrella revealing
+        hundreds of eye-like patterns.</p>
+
+    </body>
+</html>
